@@ -1,0 +1,6 @@
+Se abrio la terminal
+Se creo una carpeta en el administrador de archivos usando el comando mkdir Nisan
+Se selecciono el archivo con el comando cd "cd Nisan"
+Se ejecuto el comando Npm -i y
+Se instalaron las dependencias(npm -install cors dotenv mongoose y express) "PENDIENTE DEBIDO A QUE NO HAY INTERNET" 
+import { modeloEmpleados } from "../model/Empleados.model.js";
